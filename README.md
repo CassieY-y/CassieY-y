@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @CassieY-y
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning front-end.
-- 💞️ I’m looking to collaborate on any projects that have html, css，javascript.
+- 💞️ I’m looking to collaborate on any projects that have html, css, javascript.
 - 📫 How to reach me [CassieY-y](https://github.com/CassieY-y)
 - my favorite adult cartoons:
   1. Rick and Morty
