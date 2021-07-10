@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
     console.log('hello')
 
 ```javascript
-Name = "Cassie";
-name = "Y-y"; 
+myName = "Cassie";
+myname = "Y-y"; 
 ```
 ![helllo](github.gif)
 
