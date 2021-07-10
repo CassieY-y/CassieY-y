@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 myName = "Cassie";
 myname = "Y-y"; 
 ```
-![helllo](github.gif)
+![hello](github.gif)
 
 
 <!---
